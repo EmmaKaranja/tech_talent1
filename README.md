@@ -14,5 +14,6 @@ List of things
  - thing 1
  - thing 2
  - thing 3
+ - thing 4
 
  Some new text
