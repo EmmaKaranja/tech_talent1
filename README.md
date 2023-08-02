@@ -3,3 +3,10 @@
 ### > [Github](https://github.com/EmmaKaranja)
 ### > [Twitter](https://twitter.com/nyaguthii_emma)
 ### > [Fb](https://www.facebook.com/emma.nyaguthii)
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
