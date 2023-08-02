@@ -1,1 +1,1 @@
-"# tech_talent1" 
+# tech_talent1
