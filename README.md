@@ -1,4 +1,4 @@
-### Tech Talent {# tech_talent}
+### Tech Talent {tech_talent}
 # **tech_talent1**
 ## *[LinkedIn](https://www.linkedin.com/in/emma-karanja/)*
 ### > [Github](https://github.com/EmmaKaranja)
@@ -11,3 +11,4 @@
   Age         : 25
 
 ```
+==DO NOT FORGET!==.
